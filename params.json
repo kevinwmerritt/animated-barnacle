@@ -1,6 +1,6 @@
 {
   "name": "Kevin's Page",
   "tagline": "See some of my gifs",
-  "body": "### Welcome to my page.\r\nOn this page I will show you some of my animated gifs\r\n\r\n![Tom Brady High Five](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/imagebuzz/webdr12/anigif_optimized-4820-1428085773-9.gif)\r\n\r\n![Seahawks fans](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/imagebuzz/webdr11/anigif_optimized-16918-1428085546-3.gif)\r\n\r\n![Putin clapping](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/enhanced/webdr08/anigif_enhanced-10594-1428085454-17.gif)\r\n\r\n",
+  "body": "# Biggest Text\r\n\r\n## Smaller text\r\n\r\n### Welcome to my page.\r\n\r\nOn this page I will show you some of my animated gifs\r\n\r\n![Tom Brady High Five](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/imagebuzz/webdr12/anigif_optimized-4820-1428085773-9.gif)\r\n\r\n![Seahawks fans](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/imagebuzz/webdr11/anigif_optimized-16918-1428085546-3.gif)\r\n\r\n![Putin clapping](https://img.buzzfeed.com/buzzfeed-static/static/2015-04/3/14/enhanced/webdr08/anigif_enhanced-10594-1428085454-17.gif)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
